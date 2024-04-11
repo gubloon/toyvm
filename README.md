@@ -1,4 +1,4 @@
-# toyvm
+# 🧸 teddyvm
 implementation of a toy zero knowledge virtual machine
 - [ ] setup
   - [ ] constraints
